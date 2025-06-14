@@ -16,9 +16,4 @@ A simple Python script that encrypts or decrypts a message using the **Caesar Ci
 
 ```bash
 python caesar_cipher.py
-Choose to encrypt or decrypt
-
-Enter your message
-
-Provide a shift value (0–25)
 
